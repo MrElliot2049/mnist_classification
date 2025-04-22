@@ -17,7 +17,7 @@ This project performs digit classification using the MNIST dataset and a simple 
    ```bash
    jupyter notebook mnist_classification_model.ipynb
 
-##📌 Notes
+## 📌 Notes
 
 -No external libraries like TensorFlow or PyTorch were used.
 
